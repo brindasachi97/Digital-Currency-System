@@ -1,0 +1,6 @@
+ca 200 250 100 c-sell
+cb 200 250 100 c-purchase
+cd 300 100 200 c-sell
+ce 600 700 500 c-purchase
+cf 20 80 40 c-sell
+cg 10 100 90 c-purchase

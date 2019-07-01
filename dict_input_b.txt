@@ -1,0 +1,6 @@
+ba 200 300 100 b-purchase
+bc 200 250 100 b-purchase
+bd 500 600 500 b-sell
+be 800 500 700 b-sell
+bf 300 400 200 b-sell
+bg 600 700 500 b-sell

@@ -1,0 +1,6 @@
+ab 200 300 100 a-sell
+ac 200 250 100 a-purchase
+ad 500 400 500 a-sell
+ae 800 900 700 a-purchase
+af 300 400 200 a-sell
+ag 600 700 500 a-sell
