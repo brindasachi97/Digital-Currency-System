@@ -1,22 +1,3 @@
-Project ID: PW19SMP001
-
-
-
-Project Title: Investigation Into Implementing Digital Currency
-Using Merkel Trees
-
-
-
-Team Members: Brindavana Sachidanand - 01FB15ECS072
-	      
-              Shreya PK             - 01FB15ECS283
-
-
-
-Project Guide: Prof. Shreekanth M Prabhu
-
-
-
 Abstract: We propose a new Block-net approach where there is hierarchy of ledgers which gets represented finally as a network.
  Each transaction gets stored only in two places (purchaser and seller ledger) and then synced to network. The idea is to avoid mining and coming up with a better approach.
  The ledger itself is stored as a Merkle Tree. 
