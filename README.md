@@ -42,4 +42,3 @@ Open a terminal and type : pytest -x peer_test.py
 Open a terminal and type : pytest -x query_test.py
 
 These give a message that the test cases have passed.
-
